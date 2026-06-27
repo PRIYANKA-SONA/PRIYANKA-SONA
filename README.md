@@ -46,7 +46,7 @@ Working on enterprise AI applications including:
 
 ## 🎓 AI/ML Developer Trainee
 
-📅 **23 February 2025 – 30 June 2025**
+📅 ** February 2025 –  June 2025**
 
 Worked on enterprise AI projects including:
 
@@ -178,4 +178,3 @@ To become an **AI Engineer** specializing in:
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,50:4F46E5,100:7C3AED&section=footer"/>
 </p>
-```
