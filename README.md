@@ -1,166 +1,181 @@
 
-# Hi 👋, I'm Priyanka Sonawane
-
-<h3 align="center">AI Engineer | Currently working as AI/ML Developer</h3>
-
 <p align="center">
-  <em>Building Intelligent AI Solutions using Generative AI, AI Agents, Azure OpenAI & Computer Vision</em>
-</p>
-
-<!-- Replace banner below after creating one -->
-<p align="center">
-<img src="images/github-banner.png" width="100%" alt="GitHub Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2563EB,50:4F46E5,100:7C3AED&text=Priyanka%20Sonawane&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20Engineer%20|%20AI/ML%20Developer%20|%20Azure%20OpenAI&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=AI+Engineer;AI%2FML+Developer;Building+Enterprise+AI+Solutions;Generative+AI+%7C+AI+Agents+%7C+Computer+Vision" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Building+Enterprise+AI+Solutions;Generative+AI+%7C+AI+Agents+%7C+LLMs;Azure+OpenAI+%7C+LangChain+%7C+Python;Computer+Vision+%7C+Dynamics+365+CRM;Always+Learning+New+AI+Technologies+%F0%9F%9A%80"/>
+</p>
+
+<p align="center">
+<b>Building Intelligent AI Solutions using Generative AI, AI Agents, Azure OpenAI & Computer Vision</b>
 </p>
 
 ---
 
 # 👩‍💻 About Me
 
-- 💼 AI/ML Developer at **Dynamisity Pvt. Ltd.**
-- 🤖 Building Enterprise AI Applications
-- 🧠 Passionate about LLMs, AI Agents and Computer Vision
-- ☁️ Working with Azure OpenAI, Azure Functions and Microsoft Technologies
-- 🎯 Goal: Become an AI Engineer specializing in Enterprise AI
+I'm an **AI/ML Developer** from **Maharashtra, India 🇮🇳**, passionate about building **Enterprise AI Solutions** using **Generative AI, AI Agents, Large Language Models (LLMs), Computer Vision, and Microsoft Azure**.
+
+Currently working at **Dynamisity Pvt. Ltd.**, where I design intelligent business applications using **Azure OpenAI, LangChain, Python, Dynamics 365 CRM, Dataverse, and Azure Cloud Services**.
+
+I enjoy solving real-world business problems through AI by building intelligent chatbots, document intelligence systems, AI agents, computer vision applications, and business process automation.
+
+🎯 **Career Goal:** Become an **AI Engineer** specializing in Enterprise AI, Agentic AI, Intelligent Automation, and Cloud AI Solutions.
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
-## AI/ML Developer
-**Dynamisity Pvt. Ltd.**  
-**July 2025 – Present**
+## 🚀 AI/ML Developer
+**Dynamisity Pvt. Ltd.**
 
-- AI Agents
-- Azure OpenAI
-- AI Document Generation
-- CRM Copilots
-- Computer Vision
-- Intelligent Automation
+📅 **July 2025 – Present**
 
-## AI/ML Developer Trainee
-**23 Feb 2025 – 30 Jun 2025**
+Working on enterprise AI applications including:
 
-Projects:
-- SQL Chatbot
-- Auto Business Process Responder
-- Sales Hub Agent
-- Email Duplication Checker
-- Customer Support Chatbot
-- Customer Service Chatbot
+- 🤖 AI Agents
+- 🧠 Azure OpenAI Applications
+- 📄 AI Document Intelligence
+- 💬 Dynamics 365 CRM Copilots
+- 👁️ Computer Vision
+- ⚡ Intelligent Automation
+- ☁️ Azure Functions & Cloud Services
 
 ---
 
-# 🛠 Tech Stack
+## 🎓 AI/ML Developer Trainee
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+📅 **23 February 2025 – 30 June 2025**
 
-### AI
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+Worked on enterprise AI projects including:
 
-### Computer Vision
-OpenCV • YOLO • OCR • Tesseract
-
-### Azure
-Azure Functions • Blob Storage • Queue Storage • Azure AI Search
-
-### Microsoft
-Dynamics 365 CRM • Dataverse • Copilot Studio • Power Automate • Power BI • SharePoint
+- 🤖 SQL Chatbot
+- 📧 Auto Business Process Responder Agent
+- 💼 Sales Hub Agent
+- 📨 Email Duplication Checker Agent
+- 💬 Customer Support Chatbot (Microsoft Teams)
+- 🌐 Customer Service Chatbot (Website)
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Tech | Status |
-|---|---|---|
-| SQL Chatbot | LangChain, OpenAI, SQLite | ✅ |
-| AI Document Generator | Azure OpenAI, Qdrant | 🚧 |
-| Customer Service Chatbot | CRM, AI | 🚧 |
-| AI Code Generator | Python, LLM | 🚧 |
-| Blueprint Symbol Counter | OpenCV, OCR | 🚧 |
-| Sales & Services Copilot | AI Agents | 🚧 |
+| 🚀 Project | 📖 Description |
+|------------|----------------|
+| 🤖 SQL Chatbot | Natural Language to SQL using LangChain & LLMs |
+| 📄 AI Document Generator | AI-powered document generation from Microsoft Teams transcripts |
+| 💬 Customer Service Chatbot | AI chatbot for CRM case creation and knowledge article suggestions |
+| 🤖 Sales & Services Copilot | Enterprise CRM Copilot using AI Agents |
+| 👁️ Blueprint Symbol Counter | Computer Vision using OpenCV, OCR & AI |
+| 🧠 AI Code Generator | AI-powered code generation using prompts |
 
 ---
 
-# 📈 AI Journey
+# 🛠 Tech Stack
 
-```text
-2025
-│
-├── AI/ML Developer Trainee
-│     └── 6 AI Projects
-│
-├── AI/ML Developer
-│     └── Enterprise AI
-│
-└── Future
-      └── AI Engineer
-```
+### 💻 Programming
+
+`Python` • `SQL` • `HTML` • `JSON` • `REST APIs`
+
+### 🤖 Generative AI
+
+`Azure OpenAI` • `OpenAI GPT` • `LangChain`
+
+`Prompt Engineering` • `AI Agents`
+
+### 👁️ Computer Vision
+
+`OpenCV` • `YOLO` • `OCR` • `Tesseract`
+
+### 📚 AI Technologies
+
+`Embeddings` • `Vector Search`
+
+`Retrieval-Augmented Generation (RAG)`
+
+`Document Parsing`
+
+### ☁️ Microsoft Azure
+
+`Azure Functions`
+
+`Azure Blob Storage`
+
+`Azure Storage Queue`
+
+`Azure AI Search`
+
+### 🏢 Microsoft Technologies
+
+`Dynamics 365 CRM`
+
+`Dynamics 365 Finance & Operations`
+
+`Dataverse`
+
+`Power Apps`
+
+`Power Automate`
+
+`Microsoft Copilot Studio`
+
+`Power BI`
+
+`SharePoint`
+
+`Microsoft Teams`
 
 ---
 
 # 📚 Currently Learning
 
-- Agentic AI
-- LangGraph
-- Semantic Kernel
-- Azure AI Foundry
-- Advanced RAG
-- MCP
+- 🤖 Agentic AI
+- 🔗 LangGraph
+- 🧠 Semantic Kernel
+- ☁️ Azure AI Foundry
+- 🔌 Model Context Protocol (MCP)
+- 📚 Advanced RAG
+- 👥 Multi-Agent Systems
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Career Goal
 
-- Build 15+ AI Projects
-- Master Enterprise AI
-- Azure AI Certification
-- Contribute to Open Source
-- Switch to AI Engineer
+To become an **AI Engineer** specializing in:
 
----
-
-# 📊 GitHub Dashboard
-
-> Replace `YOUR_USERNAME` with your GitHub username.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-```
+- Enterprise AI Applications
+- AI Agents
+- Large Language Models (LLMs)
+- Computer Vision
+- Intelligent Automation
+- Cloud AI Solutions
 
 ---
 
-# 🐍 Contribution Snake
+# 📫 Connect With Me
 
-Enable using GitHub Actions later.
+<p align="center">
 
-```md
-![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-```
+<a href="https://www.linkedin.com/in/priyanka-sonawane-/">
+<img src="https://img.shields.io/badge/LinkedIn-Priyanka%20Sonawane-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/PRIYANKA-SONA">
+<img src="https://img.shields.io/badge/GitHub-PRIYANKA--SONA-181717?style=for-the-badge&logo=github"/>
+</a>
 
-# 📫 Connect
-
-- LinkedIn: https://www.linkedin.com/in/priyanka-sonawane-/
-- GitHub: https://github.com/YOUR_USERNAME
+</p>
 
 ---
 
 <p align="center">
 
-⭐ Building Intelligent AI Solutions with AI Agents, LLMs & Computer Vision ⭐
+### ⭐ Building Intelligent AI Solutions with AI Agents, LLMs & Computer Vision ⭐
 
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,50:4F46E5,100:7C3AED&section=footer"/>
+</p>
+```
