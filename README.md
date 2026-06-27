@@ -110,8 +110,6 @@ Worked on enterprise AI projects including:
 
 `Dynamics 365 CRM`
 
-`Dynamics 365 Finance & Operations`
-
 `Dataverse`
 
 `Power Apps`
