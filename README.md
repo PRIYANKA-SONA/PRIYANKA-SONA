@@ -46,7 +46,7 @@ Working on enterprise AI applications including:
 
 ## 🎓 AI/ML Developer Trainee
 
-📅 ** February 2025 –  June 2025**
+📅 **February 2025 –  June 2025**
 
 Worked on enterprise AI projects including:
 
