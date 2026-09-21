@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PRIYANKA-SONA&label=Profile%20Views&color=4F46E5&style=flat" />
+</p>
+
+<p align="center">
 <b>Building Intelligent AI Solutions using Generative AI, AI Agents, Azure OpenAI & Computer Vision</b>
 </p>
 
